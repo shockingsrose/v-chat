@@ -1,1 +1,1 @@
-exports.keywords = ['chat', 'vue'];
+export default ['chat', 'vue', 'v-chat'];
